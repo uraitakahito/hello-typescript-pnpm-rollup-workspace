@@ -1,5 +1,5 @@
 {
-  "name": "using-internal-esmodule",
+  "name": "named-exports-with-default",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,14 +11,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "files": [
-    "dist"
-  ],
-  "dependencies": {
-    "named-exports-no-default": "workspace:*",
-    "named-exports-with-default": "workspace:*"
-  },
+  "license": "Apache-2.0",
   "devDependencies": {
     "typescript": "^5.7.2"
   }
